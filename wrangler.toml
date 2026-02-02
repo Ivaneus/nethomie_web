@@ -1,4 +1,4 @@
-name = "NetHomie NOC"          # 必须与仪表板项目名称一致
+name = 'nethomie'         # 必须与仪表板项目名称一致
 compatibility_date = "2026-02-01"
 
 [assets]

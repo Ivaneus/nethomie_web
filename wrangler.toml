@@ -1,0 +1,7 @@
+name = "NetHomie NOC"          # 必须与仪表板项目名称一致
+compatibility_date = "2026-02-01"
+
+[assets]
+directory = "."                    # 使用仓库根目录
+# 可选：针对多页应用（非SPA）可不加以下行
+# not_found_handling = "none"      # 或 "single-page-application" 如果需要SPA回退

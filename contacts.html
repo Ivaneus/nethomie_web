@@ -1,0 +1,442 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+
+<head>
+    <title>Contact Us - NetHomie NOC</title>
+    <link rel="stylesheet" href="app.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+
+<body>
+    <header id="header">
+        <div class="header-block header-block2">
+            <div class="logotip">
+                <a href="index.html"><img src="logo.png" alt="NetHomie NOC Logo" class="header-logo"></a>
+            </div>
+            <div class="header-contact_number">
+                <div>
+                    <nav>
+                        <ul class="header-menu">
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="internet.html">Internet</a></li>
+                            <li><a href="tv.html">Television</a></li>
+                            <li><a href="wireless.html">Wireless</a></li>
+                            <li><a href="contacts.html">Contacts</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <div class="privacy-office">
+                <div data-toggle='modal' data-target='#my_office'><a href='#'></a></div>
+            </div>
+        </div>
+        <div class="burger">
+            <div class="burger-menu">
+                <a href="index.html"><img class="burg-logo" src="logo.png" alt="NetHomie NOC Logo"></a>
+                <a href="#" class="burger-menu_button">
+                    <span class="burger-menu_lines"></span>
+                </a>
+                <nav class="burger-menu_nav">
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="internet.html">Internet</a></li>
+                        <li><a href="tv.html">Television</a></li>
+                        <li><a href="wireless.html">Wireless</a></li>
+                        <li><a href="contacts.html">Contacts</a></li>
+                    </ul>
+                    <hr>
+                    <div data-toggle='modal' data-target='#my_office'><a href="#"></a></div>
+                </nav>
+                <div class="burger-menu_overlay"></div>
+            </div>
+        </div>
+    </header>
+
+
+    <section class="tar_box tarif_tv container">
+        <div class="home-atribute">
+            <a href="index.html">Home</a> / <span>Contact Us</span>
+        </div>
+        <div class="btn-back">
+            <a href="index.html"> <svg width="40" height="40" viewbox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M15.9425 14.7422L16.8263 15.6261L13.0764 19.3759H29.375V20.626H13.0766L16.8263 24.3757L15.9425 25.2596L10.6837 20.0009L15.9425 14.7422Z" fill="black"></path>
+                </svg></a>
+        </div>
+        <main>
+            <section class="service-check">
+                <div class="container">
+                    <h3 style="text-align: center;">Check Service Availability</h3>
+                    <div class="service-form">
+                        <form id="availability-form" method="post">
+                            <div class="form-group">
+                                <label for="address">Street Address</label>
+                                <input type="text" id="address" name="address" placeholder="Enter your street address">
+                                <span class="error-message" id="address-error"></span>
+                            </div>
+                            <div class="form-group">
+                                <label for="city">City</label>
+                                <input type="text" id="city" name="city" placeholder="Enter your city">
+                                <span class="error-message" id="city-error"></span>
+                            </div>
+                            <div class="form-group">
+                                <label for="zip">ZIP Code</label>
+                                <input type="text" id="zip" name="zip" placeholder="Enter your ZIP code">
+                                <span class="error-message" id="zip-error"></span>
+                            </div>
+                            <button type="submit" class="btn-check">Check Availability</button>
+                        </form>
+                        <div id="result-message" class="result-message"></div>
+                    </div>
+                </div>
+            </section>
+            
+            <section class="contact-form-section">
+                <div class="container">
+                    <h3 style="text-align: center;">Contact Us</h3>
+                    <div class="service-form">
+                        <form id="contact-form" method="post">
+                            <div class="form-group">
+                                <label for="name">Full Name</label>
+                                <input type="text" id="name" name="name" placeholder="Enter your full name">
+                                <span class="error-message" id="name-error"></span>
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email Address</label>
+                                <input type="email" id="email" name="email" placeholder="Enter your email address">
+                                <span class="error-message" id="email-error"></span>
+                            </div>
+                            <div class="form-group">
+                                <label for="phone">Phone Number</label>
+                                <input type="tel" id="phone" name="phone" placeholder="Enter your phone number">
+                                <span class="error-message" id="phone-error"></span>
+                            </div>
+                            <div class="form-group">
+                                <label for="subject">Subject</label>
+                                <select id="subject" name="subject">
+                                    <option value="">Select a subject</option>
+                                    <option value="sales">Sales Inquiry</option>
+                                    <option value="support">Technical Support</option>
+                                    <option value="billing">Billing Question</option>
+                                    <option value="feedback">Feedback</option>
+                                    <option value="other">Other</option>
+                                </select>
+                                <span class="error-message" id="subject-error"></span>
+                            </div>
+                            <div class="form-group">
+                                <label for="message">Message</label>
+                                <textarea id="message" name="message" rows="5" placeholder="Type your message here"></textarea>
+                                <span class="error-message" id="message-error"></span>
+                            </div>
+                            <button type="submit" class="btn-check">Send Message</button>
+                        </form>
+                        <div id="contact-result-message" class="result-message"></div>
+                    </div>
+                </div>
+            </section>
+            
+            <section class="index-contact contact2">
+                <div class="container">
+                    <div class="contact-info">
+                        <div class="info-item">
+                            <h4>Address:</h4>
+                            <p>30 N GOULD ST STE R<br>
+                                SHERIDAN, WY 82801
+                            </p>
+                        </div>
+                        <div class="info-item">
+                            <h4>Working Hours:</h4>
+                            <p>Mon-Fri — 8:00 AM - 7:00 PM<br>
+                                Sat -Sun — Closed
+                            </p>
+                        </div>
+                        <div class="info-item">
+                            <h4>Customer Service:</h4>
+                            <p><a href="tel:+1-307-593-1101">+1 (307) 593-1101</a></p>
+                        </div>
+
+                        <div class="info-item">
+                            <h4>Email:</h4>
+                            <p><a href="mailto:support@nethomie.com">support@nethomie.com</a></p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+    </main></section>
+    <footer class="footerClass" style="position: relative; width: 100%; margin-top: 30px;">
+        <div class="container">
+            <div class="footer-block" style="display: block; text-align: center;">
+                <div>NetHomie NOC LLC, 2025 | Serving Wyoming Communities</div>
+            </div>
+        </div>
+    </footer>
+
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script src="app.js"></script>
+    
+    <style>
+        .service-check {
+            margin-top: 40px;
+            padding: 20px 0;
+        }
+        
+        .service-form {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #f5f5f5;
+            border-radius: 8px;
+        }
+        
+        .form-group {
+            margin-bottom: 15px;
+            position: relative;
+        }
+        
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        
+        .form-group input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        
+        .btn-check {
+            background: #0066cc;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        
+        .btn-check:hover {
+            background: #0055aa;
+        }
+        
+        .social-icons {
+            margin-top: 10px;
+        }
+        
+        .social-icon {
+            margin: 0 10px;
+            color: #fff;
+            text-decoration: none;
+        }
+        
+        .error-message {
+            color: #d9534f;
+            font-size: 12px;
+            display: block;
+            margin-top: 5px;
+        }
+        
+        .result-message {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 4px;
+            display: none;
+        }
+        
+        .result-message.error {
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        
+        .result-message.unavailable {
+            background-color: #fff3cd;
+            color: #856404;
+            border: 1px solid #ffeeba;
+        }
+        
+        .contact-form-section {
+            margin-top: 40px;
+            padding: 20px 0;
+        }
+        
+        textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            resize: vertical;
+        }
+        
+        select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: white;
+        }
+        
+        .result-message.success {
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        
+        .header-logo {
+            max-height: 65px;
+            width: auto;
+            margin: 5px 0;
+        }
+        
+        .burg-logo {
+            max-height: 50px;
+            width: auto;
+        }
+    </style>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Service Availability Form
+            const availabilityForm = document.getElementById('availability-form');
+            const resultMessage = document.getElementById('result-message');
+            
+            availabilityForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                // Reset error messages
+                document.querySelectorAll('.error-message').forEach(function(el) {
+                    el.textContent = '';
+                });
+                
+                resultMessage.style.display = 'none';
+                resultMessage.className = 'result-message';
+                
+                // Get form data
+                const formData = new FormData(availabilityForm);
+                
+                // Send AJAX request
+                fetch('check_availability.php', {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status === 'error') {
+                        // Show validation errors
+                        const errorMessages = data.message.split(' ');
+                        
+                        if (errorMessages.includes('address')) {
+                            document.getElementById('address-error').textContent = 'Please enter a valid street address.';
+                        }
+                        
+                        if (errorMessages.includes('City')) {
+                            document.getElementById('city-error').textContent = 'Please enter a valid city name.';
+                        }
+                        
+                        if (errorMessages.includes('ZIP')) {
+                            document.getElementById('zip-error').textContent = 'Please enter a valid ZIP code.';
+                        }
+                        
+                        resultMessage.textContent = data.message;
+                        resultMessage.classList.add('error');
+                        resultMessage.style.display = 'block';
+                    } else if (data.status === 'unavailable') {
+                        // Show unavailable message
+                        resultMessage.textContent = data.message;
+                        resultMessage.classList.add('unavailable');
+                        resultMessage.style.display = 'block';
+                        
+                        // Clear form
+                        availabilityForm.reset();
+                    }
+                })
+                .catch(error => {
+                    resultMessage.textContent = 'An error occurred while processing your request. Please try again later.';
+                    resultMessage.classList.add('error');
+                    resultMessage.style.display = 'block';
+                });
+            });
+            
+            // Contact Form
+            const contactForm = document.getElementById('contact-form');
+            const contactResultMessage = document.getElementById('contact-result-message');
+            
+            contactForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                // Reset error messages
+                contactForm.querySelectorAll('.error-message').forEach(function(el) {
+                    el.textContent = '';
+                });
+                
+                contactResultMessage.style.display = 'none';
+                contactResultMessage.className = 'result-message';
+                
+                // Get form data
+                const name = document.getElementById('name').value.trim();
+                const email = document.getElementById('email').value.trim();
+                const phone = document.getElementById('phone').value.trim();
+                const subject = document.getElementById('subject').value;
+                const message = document.getElementById('message').value.trim();
+                
+                // Validate form
+                let isValid = true;
+                
+                if (name === '') {
+                    document.getElementById('name-error').textContent = 'Please enter your name.';
+                    isValid = false;
+                }
+                
+                if (email === '') {
+                    document.getElementById('email-error').textContent = 'Please enter your email address.';
+                    isValid = false;
+                } else if (!isValidEmail(email)) {
+                    document.getElementById('email-error').textContent = 'Please enter a valid email address.';
+                    isValid = false;
+                }
+                
+                if (phone !== '' && !isValidPhone(phone)) {
+                    document.getElementById('phone-error').textContent = 'Please enter a valid phone number.';
+                    isValid = false;
+                }
+                
+                if (subject === '') {
+                    document.getElementById('subject-error').textContent = 'Please select a subject.';
+                    isValid = false;
+                }
+                
+                if (message === '') {
+                    document.getElementById('message-error').textContent = 'Please enter your message.';
+                    isValid = false;
+                }
+                
+                if (isValid) {
+                    // In a real implementation, this would send data to a server
+                    // For now, we'll just simulate a successful submission
+                    contactResultMessage.textContent = 'Thank you for your message! We will get back to you shortly.';
+                    contactResultMessage.classList.add('success');
+                    contactResultMessage.style.display = 'block';
+                    
+                    // Clear form
+                    contactForm.reset();
+                }
+            });
+            
+            // Helper functions
+            function isValidEmail(email) {
+                const re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+                return re.test(String(email).toLowerCase());
+            }
+            
+            function isValidPhone(phone) {
+                const re = /^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$/;
+                return re.test(String(phone));
+            }
+        });
+    </script>
+</body>
+
+</html>

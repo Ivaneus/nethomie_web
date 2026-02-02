@@ -1,0 +1,26 @@
+<svg width="360" height="251" viewBox="0 0 360 251" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad_private" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5A538A" />
+      <stop offset="100%" stop-color="#453E6D" />
+    </linearGradient>
+  </defs>
+  <path d="M0 10C0 4.47715 4.47715 0 10 0H350C355.523 0 360 4.47715 360 10V231C360 242.046 351.046 251 340 251H20C8.95432 251 0 242.046 0 231V10Z" fill="url(#grad_private)"/>
+  <path d="M0 70C60 55 120 85 180 70C240 55 300 85 360 70" stroke="white" stroke-width="1.5" stroke-opacity="0.4"/>
+  <path d="M0 130C60 115 120 145 180 130C240 115 300 145 360 130" stroke="white" stroke-width="1.5" stroke-opacity="0.4"/>
+  <path d="M0 190C60 175 120 205 180 190C240 175 300 205 360 190" stroke="white" stroke-width="1.5" stroke-opacity="0.4"/>
+  <rect x="150" y="80" width="60" height="40" rx="5" fill="white" fill-opacity="0.15" stroke="white" stroke-width="1.5" stroke-opacity="0.7"/>
+  <rect x="160" y="60" width="40" height="30" rx="20" fill="none" stroke="white" stroke-width="1.5" stroke-opacity="0.7"/>
+  <circle cx="180" cy="100" r="5" fill="white" fill-opacity="0.5"/>
+  <line x1="180" y1="100" x2="180" y2="110" stroke="white" stroke-width="1.5" stroke-opacity="0.7"/>
+  <rect x="80" y="150" width="40" height="40" rx="5" fill="white" fill-opacity="0.1"/>
+  <rect x="240" y="150" width="40" height="40" rx="20" fill="white" fill-opacity="0.1"/>
+  <rect x="240" y="60" width="60" height="30" rx="5" fill="white" fill-opacity="0.1"/>
+  <rect x="60" y="60" width="60" height="30" rx="5" fill="white" fill-opacity="0.1"/>
+  <circle cx="60" cy="40" r="2" fill="white" fill-opacity="0.5"/>
+  <circle cx="80" cy="40" r="2" fill="white" fill-opacity="0.5"/>
+  <circle cx="100" cy="40" r="2" fill="white" fill-opacity="0.5"/>
+  <circle cx="260" cy="40" r="2" fill="white" fill-opacity="0.5"/>
+  <circle cx="280" cy="40" r="2" fill="white" fill-opacity="0.5"/>
+  <circle cx="300" cy="40" r="2" fill="white" fill-opacity="0.5"/>
+</svg>

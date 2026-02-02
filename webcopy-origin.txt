@@ -1,0 +1,164 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://netlabs.com.ua/
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\index.htm
+Content Type: text/html
+
+Uri: https://netlabs.com.ua/assets/css/app.css
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\app.css
+Content Type: text/css
+
+Uri: https://netlabs.com.ua/assets/js/app.js
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\app.js
+Content Type: application/javascript
+
+Uri: https://netlabs.com.ua/contacts.html
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\contacts.html
+Content Type: text/html
+
+Uri: https://netlabs.com.ua/index.html
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\index-2.html
+Content Type: text/html
+
+Uri: https://netlabs.com.ua/internet.html
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\internet.html
+Content Type: text/html
+
+Uri: https://netlabs.com.ua/mobile/index.html
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\index-1.html
+Content Type: text/html
+
+Uri: https://netlabs.com.ua/src/img/20plus.png
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\20plus.png
+Content Type: image/png
+
+Uri: https://netlabs.com.ua/src/img/action-bg.png
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\action-bg.png
+Content Type: image/png
+
+Uri: https://netlabs.com.ua/src/img/bg-blue.png
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\bg-blue.png
+Content Type: image/png
+
+Uri: https://netlabs.com.ua/src/img/bg-white.png
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\bg-white.png
+Content Type: image/png
+
+Uri: https://netlabs.com.ua/src/img/btn-back.svg
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\btn-back.svg
+Content Type: image/svg+xml
+
+Uri: https://netlabs.com.ua/src/img/card3.png
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\card3.png
+Content Type: image/png
+
+Uri: https://netlabs.com.ua/src/img/eclipce.png
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\eclipce.png
+Content Type: image/png
+
+Uri: https://netlabs.com.ua/src/img/eclipce100.png
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\eclipce100.png
+Content Type: image/png
+
+Uri: https://netlabs.com.ua/src/img/eclipce200.png
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\eclipce200.png
+Content Type: image/png
+
+Uri: https://netlabs.com.ua/src/img/favicon.ico
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://netlabs.com.ua/src/img/header-business.svg
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\header-business.svg
+Content Type: image/svg+xml
+
+Uri: https://netlabs.com.ua/src/img/header-business2.svg
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\header-business2.svg
+Content Type: image/svg+xml
+
+Uri: https://netlabs.com.ua/src/img/header-home.svg
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\header-home.svg
+Content Type: image/svg+xml
+
+Uri: https://netlabs.com.ua/src/img/header-lifecell.svg
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\header-lifecell.svg
+Content Type: image/svg+xml
+
+Uri: https://netlabs.com.ua/src/img/header-privat.svg
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\header-privat.svg
+Content Type: image/svg+xml
+
+Uri: https://netlabs.com.ua/src/img/header-tv.svg
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\header-tv.svg
+Content Type: image/svg+xml
+
+Uri: https://netlabs.com.ua/src/img/ibox.png
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\ibox.png
+Content Type: image/png
+
+Uri: https://netlabs.com.ua/src/img/privat-24.png
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\privat-24.png
+Content Type: image/png
+
+Uri: https://netlabs.com.ua/src/img/select-ar.svg
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\select-ar.svg
+Content Type: image/svg+xml
+
+Uri: https://netlabs.com.ua/src/img/slider-next.svg
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\slider-next.svg
+Content Type: image/svg+xml
+
+Uri: https://netlabs.com.ua/src/img/slider-prev.svg
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\slider-prev.svg
+Content Type: image/svg+xml
+
+Uri: https://netlabs.com.ua/src/js/autoComplete.js-10.2.6/dist/autoComplete.js
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\autoComplete.js
+Content Type: application/javascript
+
+Uri: https://netlabs.com.ua/src/js/autoComplete.js-10.2.6/dist/css/autoComplete.02.css
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\autoComplete.02.css
+Content Type: text/css
+
+Uri: https://netlabs.com.ua/tv/index.html
+File Name: C:\Downloaded Web Sites\netlabs.com.ua\index.html
+Content Type: text/html
+

@@ -1,0 +1,28 @@
+<svg width="360" height="251" viewBox="0 0 360 251" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad_business2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B3661" />
+      <stop offset="100%" stop-color="#072444" />
+    </linearGradient>
+    <pattern id="grid" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="none"/>
+      <path d="M 10 0 L 0 0 0 10" stroke="white" stroke-opacity="0.05" stroke-width="0.5" fill="none"/>
+    </pattern>
+  </defs>
+  <path d="M0 10C0 4.47715 4.47715 0 10 0H350C355.523 0 360 4.47715 360 10V231C360 242.046 351.046 251 340 251H20C8.95432 251 0 242.046 0 231V10Z" fill="url(#grad_business2)"/>
+  <rect x="0" y="0" width="360" height="251" fill="url(#grid)"/>
+  <path d="M60 180L120 140L180 160L240 120L300 140" stroke="white" stroke-width="2" stroke-opacity="0.8" fill="none"/>
+  <circle cx="60" cy="180" r="4" fill="white" fill-opacity="0.8"/>
+  <circle cx="120" cy="140" r="4" fill="white" fill-opacity="0.8"/>
+  <circle cx="180" cy="160" r="4" fill="white" fill-opacity="0.8"/>
+  <circle cx="240" cy="120" r="4" fill="white" fill-opacity="0.8"/>
+  <circle cx="300" cy="140" r="4" fill="white" fill-opacity="0.8"/>
+  <rect x="140" y="50" width="80" height="40" rx="3" fill="white" fill-opacity="0.2" stroke="white" stroke-width="1.5" stroke-opacity="0.8"/>
+  <line x1="150" y1="65" x2="210" y2="65" stroke="white" stroke-width="1" stroke-opacity="0.8"/>
+  <line x1="150" y1="75" x2="190" y2="75" stroke="white" stroke-width="1" stroke-opacity="0.8"/>
+  <path d="M0 40C40 30 80 45 120 35C160 25 200 40 240 30C280 20 320 35 360 25" stroke="white" stroke-width="1" stroke-opacity="0.3"/>
+  <path d="M0 210C40 200 80 215 120 205C160 195 200 210 240 200C280 190 320 205 360 195" stroke="white" stroke-width="1" stroke-opacity="0.3"/>
+  <rect x="260" y="50" width="60" height="60" rx="30" fill="white" fill-opacity="0.05"/>
+  <rect x="40" y="100" width="40" height="40" rx="5" fill="white" fill-opacity="0.05"/>
+  <polygon points="320,180 340,220 300,220" fill="white" fill-opacity="0.05"/>
+</svg>

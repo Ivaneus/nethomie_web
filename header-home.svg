@@ -1,0 +1,21 @@
+<svg width="360" height="251" viewBox="0 0 360 251" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad_home" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#168AAF" />
+      <stop offset="100%" stop-color="#0D6B88" />
+    </linearGradient>
+  </defs>
+  <path d="M0 10C0 4.47715 4.47715 0 10 0H350C355.523 0 360 4.47715 360 10V231C360 242.046 351.046 251 340 251H20C8.95432 251 0 242.046 0 231V10Z" fill="url(#grad_home)"/>
+  <path d="M0 80C60 60 120 90 180 70C240 50 300 80 360 60" stroke="white" stroke-width="2" stroke-opacity="0.5"/>
+  <path d="M0 140C60 120 120 150 180 130C240 110 300 140 360 120" stroke="white" stroke-width="2" stroke-opacity="0.5"/>
+  <path d="M0 200C60 180 120 210 180 190C240 170 300 200 360 180" stroke="white" stroke-width="2" stroke-opacity="0.5"/>
+  <path d="M180 40L240 90H120L180 40Z" fill="white" fill-opacity="0.2" stroke="white" stroke-width="2" stroke-opacity="0.8"/>
+  <rect x="140" y="90" width="80" height="60" fill="white" fill-opacity="0.2" stroke="white" stroke-width="2" stroke-opacity="0.8"/>
+  <rect x="170" y="110" width="20" height="40" fill="white" fill-opacity="0.3"/>
+  <rect x="150" y="100" width="15" height="15" fill="white" fill-opacity="0.3"/>
+  <rect x="195" y="100" width="15" height="15" fill="white" fill-opacity="0.3"/>
+  <circle cx="80" cy="50" r="15" fill="white" fill-opacity="0.1"/>
+  <circle cx="280" cy="50" r="10" fill="white" fill-opacity="0.1"/>
+  <circle cx="60" cy="180" r="20" fill="white" fill-opacity="0.1"/>
+  <circle cx="300" cy="200" r="25" fill="white" fill-opacity="0.1"/>
+</svg>

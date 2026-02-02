@@ -1,0 +1,442 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+
+<head>
+   <title>NetHomie NOC - Internet, TV & Wireless Services</title>
+   <link rel="stylesheet" href="app.css">
+   <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+
+<body>
+   <header id="header">
+      <div class="header-block header-block2">
+         <div class="logotip">
+            <a href="index.html"><img src="logo.png" alt="NetHomie NOC Logo" class="header-logo"></a>
+         </div>
+         <div class="header-contact_number">
+            <div>
+               <nav>
+                  <ul class="header-menu">
+                     <li><a href="index.html">Home</a></li>
+                     <li><a href="internet.html">Internet</a></li>
+                     <li><a href="tv.html">Television</a></li>
+                     <li><a href="wireless.html">Wireless</a></li>
+                     <li><a href="contacts.html">Contacts</a></li>
+                  </ul>
+               </nav>
+            </div>
+         </div>
+         <div class="privacy-office">
+            <div data-toggle='modal' data-target='#my_office'><a href='#'></a></div>
+         </div>
+      </div>
+      <div class="burger">
+         <div class="burger-menu">
+            <a href="index.html"><img class="burg-logo" src="logo.png" alt="NetHomie NOC Logo"></a>
+            <a href="#" class="burger-menu_button">
+               <span class="burger-menu_lines"></span>
+            </a>
+            <nav class="burger-menu_nav">
+               <ul>
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="internet.html">Internet</a></li>
+                  <li><a href="tv.html">Television</a></li>
+                  <li><a href="wireless.html">Wireless</a></li>
+                  <li><a href="contacts.html">Contacts</a></li>
+               </ul>
+               <hr>
+               <div data-toggle='modal' data-target='#my_office'><a href="#"></a></div>
+            </nav>
+            <div class="burger-menu_overlay"></div>
+         </div>
+      </div>
+   </header>
+
+   <main class="index_main">
+      <section class="main-page">
+         <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
+            <div class="carousel-inner">
+               <div class="carousel-item active">
+                  <img class="background-img d-block w-100" src="bg-white.png" alt="High-speed fiber internet in Wyoming">
+                  <div class="carousel-caption">
+                     <div class="container">
+                        <div class="row">
+                           <div class="main_text col-lg-7 col-md-8 col-10">
+                              <h2>Blazing-Fast Fiber Internet</h2>
+                              <p class="text-main-adapt2">Experience Wyoming's most reliable connection with symmetrical speeds up to 1 Gbps, zero data limits, and 99.9% uptime guarantee. Perfect for remote work, 4K streaming, and competitive gaming.</p>
+                              <button onclick="window.location.href = 'internet.html#connect';">Explore Plans</button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="main-count_slider">01 <span>/ 03</span></div>
+               </div>
+
+               <div class="carousel-item second-slider">
+                  <img class="background-img d-block w-100" src="bg-blue.png" alt="Family entertainment bundle">
+                  <div class=" carousel-caption">
+                     <div class="container">
+                        <div class="row">
+                           <div class="main_text col-lg-7 col-md-8 col-10">
+                              <h2>Ultimate Entertainment Bundle</h2>
+                              <p class="text-main-adapt2">Combine Internet + TV + Wireless and save $25 monthly with our exclusive family package. Enjoy 100+ HD channels, premium streaming services, and nationwide mobile coverage
+                                 <span class="adap_tv">all on one convenient bill with 24/7 customer support</span>
+                              </p>
+                              <button onclick="window.location.href = 'contacts.html';">Get Started</button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="main-count_slider">02 <span>/ 03</span></div>
+               </div>
+               
+               <div class="carousel-item third-slider">
+                  <img class="background-img d-block w-100" src="action-bg.png" alt="Rural Wyoming connectivity solutions">
+                  <div class=" carousel-caption">
+                     <div class="container">
+                        <div class="row">
+                           <div class="main_text col-lg-7 col-md-8 col-10">
+                              <h2>Connecting Rural Wyoming</h2>
+                              <p class="text-main-adapt2">Advanced solutions for remote ranches and properties using our proprietary long-range wireless technology and satellite hybrid systems
+                                 <span class="adap_tv">delivering reliable internet to areas where other providers can't reach, with speeds up to 50 Mbps even in the most isolated locations</span>
+                              </p>
+                              <button onclick="window.location.href = 'internet.html';">Rural Solutions</button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="main-count_slider">03 <span>/ 03</span></div>
+               </div>
+
+            </div>
+
+            <a id="main-prev" class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
+               <img class="svg" src="slider-prev.svg" alt="">
+               <!-- <span class="sr-only">Previous</span> -->
+            </a>
+            <a id="main-next" class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
+               <img class="svg" src="slider-next.svg" alt="">
+               <!-- <span class="sr-only">Next</span> -->
+            </a>
+         </div>
+
+
+      </section>
+      
+      <section class="services-overview">
+         <div class="container">
+            <h2 class="section-title">Our Services</h2>
+            <div class="services-grid">
+               <div class="service-card">
+                  <img src="sve-router.png" alt="Internet icon" class="service-icon">
+                  <h3>High-Speed Internet</h3>
+                  <p>Speeds up to 1 Gbps with no data caps. Perfect for streaming, gaming, and working from home.</p>
+                  <a href="internet.html" class="service-link">View Plans</a>
+               </div>
+               
+               <div class="service-card">
+                  <img src="sve-television.png" alt="TV icon" class="service-icon">
+                  <h3>Television</h3>
+                  <p>Enjoy 100+ channels with crystal-clear HD quality and on-demand content for the whole family.</p>
+                  <a href="tv.html" class="service-link">View Plans</a>
+               </div>
+               
+               <div class="service-card">
+                  <img src="sve-wireless.png" alt="Wireless icon" class="service-icon">
+                  <h3>Wireless</h3>
+                  <p>Reliable mobile coverage with unlimited talk & text plans and generous data allowances.</p>
+                  <a href="wireless.html" class="service-link">View Plans</a>
+               </div>
+            </div>
+         </div>
+      </section>
+      
+      <section>
+         <div class="pay-services-block container">
+            <h3 class="main-text-center">Payment Options</h3>
+            <div class="payment_box">
+               <div class="type_pay">
+                  <div class="pay-services row">
+                     <div class="col-lg-4 col-sm-4 pay-wrap ">
+                        <div class="pay-item">
+                           <br>
+                           <div class="privat-img"><img class="img" src="privat-24.png" alt="Online payment icon"></div>
+                           <h4>Online Bill Pay</h4>
+                           <p>Pay your bill securely through our customer portal
+                           </p>
+                           <button class="pay-now-btn">Pay Now</button>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-sm-4 pay-wrap">
+                        <div class="pay-item">
+                           <div class="visa-img"><img class="img" src="card3.png" alt="Credit card icon"></div>
+                           <h4>ACH Bank Transfer</h4>
+                           <p>Direct payment from your bank account
+                           </p>
+                           <button class="second-pay-btn">Set Up ACH</button>
+                        </div>
+                     </div>
+                     <div class="col-lg-4 col-sm-4 pay-wrap show_in_cart">
+                        <div class="pay-item">
+                           <div class="ibox-img"><img class="img" src="ibox.png" alt="Automatic payment icon" style="width:300px; height: 40px;"></div>
+                           <h4>PayPal/Venmo</h4>
+                           <p>Pay with your preferred digital wallet:</p>
+                           <div id="choose_terminal" class="custom-selects2 custom-selects3" style="width:200px;">
+                              <select>
+                                 <option value="0">Select option</option>
+                                 <option value="1">PayPal</option>
+                                 <option value="2">Venmo</option>
+                                 <option value="3">Apple Pay</option>
+                                 <option value="4">Google Pay</option>
+                              </select>
+                              <img class="pay-arrow-select" src="select-ar.svg" alt="">
+                           </div>
+                           <br>
+                           <br>
+                           <a href="#" id="btn_oncart" class="last-pay-btn">Pay with Digital Wallet</a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <p class="pay_text-help"><br></p>
+         </div>
+      </section>
+
+      <section class="index-contact contact">
+         <div class="container">
+            <div class="contact-info">
+               <div class="info-item">
+                  <h4>Address:</h4>
+                  <p>30 N GOULD ST STE R<br>
+                     SHERIDAN, WY 82801
+                  </p>
+               </div>
+               <div class="info-item">
+                  <h4>Working Hours:</h4>
+                  <p>Mon-Fri — 8:00 AM - 7:00 PM<br>
+                     Sat -Sun — Closed
+                  </p>
+               </div>
+               <div class="info-item">
+                  <h4>Customer Service:</h4>
+                  <p><a href="tel:+1-307-593-1101">+1 (307) 593-1101</a></p>
+               </div>
+
+               <div class="info-item">
+                  <h4>Email:</h4>
+                  <p><a href="mailto:support@nethomie.com">support@nethomie.com</a></p>
+               </div>
+            </div>
+
+         </div>
+      </section>
+      <!--  Modal -->
+      <div id='modals'>
+      </div>
+
+   </main>
+   <footer class="footerClass">
+      <div class="container">
+         <div class="footer-block" style="display: block; text-align: center;">
+            <div>NetHomie NOC LLC, 2025 | Serving Wyoming Communities</div>
+         </div>
+      </div>
+   </footer>
+
+   <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+   <script src="app.js"></script>
+   
+   <script>
+      document.addEventListener('DOMContentLoaded', function() {
+         // Get all payment buttons
+         const payNowBtn = document.querySelector('.pay-now-btn');
+         const setupACHBtn = document.querySelector('.second-pay-btn');
+         const digitalWalletBtn = document.querySelector('#btn_oncart');
+         
+         // Function to show custom alert and redirect
+         function showSecurityAlert() {
+            // Create modal backdrop
+            const modalBackdrop = document.createElement('div');
+            modalBackdrop.style.position = 'fixed';
+            modalBackdrop.style.top = '0';
+            modalBackdrop.style.left = '0';
+            modalBackdrop.style.width = '100%';
+            modalBackdrop.style.height = '100%';
+            modalBackdrop.style.backgroundColor = 'rgba(0, 0, 0, 0.7)';
+            modalBackdrop.style.zIndex = '9999';
+            modalBackdrop.style.display = 'flex';
+            modalBackdrop.style.justifyContent = 'center';
+            modalBackdrop.style.alignItems = 'center';
+            
+            // Create modal content
+            const modalContent = document.createElement('div');
+            modalContent.style.backgroundColor = 'white';
+            modalContent.style.padding = '30px';
+            modalContent.style.borderRadius = '8px';
+            modalContent.style.maxWidth = '90%';
+            modalContent.style.width = '450px';
+            modalContent.style.textAlign = 'center';
+            modalContent.style.boxShadow = '0 4px 8px rgba(0, 0, 0, 0.2)';
+            
+            // Add warning icon
+            const warningIcon = document.createElement('div');
+            warningIcon.innerHTML = '⚠️';
+            warningIcon.style.fontSize = '48px';
+            warningIcon.style.marginBottom = '20px';
+            modalContent.appendChild(warningIcon);
+            
+            // Add title
+            const title = document.createElement('h3');
+            title.textContent = 'Security Alert';
+            title.style.margin = '0 0 15px 0';
+            title.style.fontSize = '22px';
+            title.style.color = '#d9534f';
+            modalContent.appendChild(title);
+            
+            // Add message
+            const message = document.createElement('p');
+            message.textContent = "Due to the rise in telecommunications fraud, online payments are temporarily unavailable. Please contact us via email for a secure payment link.";
+            message.style.marginBottom = '25px';
+            modalContent.appendChild(message);
+            
+            // Add confirm button
+            const confirmButton = document.createElement('button');
+            confirmButton.textContent = 'OK';
+            confirmButton.style.backgroundColor = '#0066cc';
+            confirmButton.style.color = 'white';
+            confirmButton.style.border = 'none';
+            confirmButton.style.padding = '10px 30px';
+            confirmButton.style.borderRadius = '4px';
+            confirmButton.style.fontSize = '16px';
+            confirmButton.style.cursor = 'pointer';
+            
+            // Add click event to redirect to contacts page
+            confirmButton.addEventListener('click', function() {
+               window.location.href = 'contacts.html';
+            });
+            
+            modalContent.appendChild(confirmButton);
+            modalBackdrop.appendChild(modalContent);
+            document.body.appendChild(modalBackdrop);
+         }
+         
+         // Add click event listeners to all payment buttons
+         if(payNowBtn) {
+            payNowBtn.addEventListener('click', function(e) {
+               e.preventDefault();
+               showSecurityAlert();
+            });
+         }
+         
+         if(setupACHBtn) {
+            setupACHBtn.addEventListener('click', function(e) {
+               e.preventDefault();
+               showSecurityAlert();
+            });
+         }
+         
+         if(digitalWalletBtn) {
+            digitalWalletBtn.addEventListener('click', function(e) {
+               e.preventDefault();
+               showSecurityAlert();
+            });
+         }
+      });
+   </script>
+   
+   <style>
+      .services-overview {
+         padding: 60px 0;
+         background-color: #f5f5f5;
+      }
+      
+      .section-title {
+         text-align: center;
+         margin-bottom: 40px;
+         font-size: 32px;
+      }
+      
+      .services-grid {
+         display: flex;
+         justify-content: space-between;
+         flex-wrap: wrap;
+      }
+      
+      .service-card {
+         background: white;
+         border-radius: 8px;
+         box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+         padding: 30px;
+         width: 30%;
+         margin-bottom: 30px;
+         text-align: center;
+      }
+      
+      .service-icon {
+         width: 60px;
+         height: 60px;
+         margin-bottom: 20px;
+      }
+      
+      .service-card h3 {
+         margin-bottom: 15px;
+         color: #0066cc;
+      }
+      
+      .service-card p {
+         margin-bottom: 20px;
+         line-height: 1.6;
+      }
+      
+      .service-link {
+         display: inline-block;
+         padding: 8px 20px;
+         background: #0066cc;
+         color: white;
+         text-decoration: none;
+         border-radius: 4px;
+         font-weight: bold;
+      }
+      
+      .service-link:hover {
+         background: #0055aa;
+      }
+      
+      .social-icons {
+         margin-top: 10px;
+      }
+      
+      .social-icon {
+         margin: 0 10px;
+         color: #fff;
+         text-decoration: none;
+      }
+      
+      @media (max-width: 768px) {
+         .services-grid {
+            flex-direction: column;
+         }
+         
+         .service-card {
+            width: 100%;
+         }
+      }
+      
+      .header-logo {
+         max-height: 65px;
+         width: auto;
+         margin: 5px 0;
+      }
+      
+      .burg-logo {
+         max-height: 50px;
+         width: auto;
+      }
+   </style>
+</body>
+
+</html>
